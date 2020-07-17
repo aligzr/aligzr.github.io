@@ -24,4 +24,4 @@ Getting started
 ======
 You can find some design renders, CAD models and blog posts in this website.
 
-Contact: aligezer157@gmail.com
+Contact me aligezer157@gmail.com
