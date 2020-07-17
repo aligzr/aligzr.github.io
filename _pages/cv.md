@@ -57,7 +57,7 @@ Skills
   * Solidworks
   * Catia v5
   * Autocad
- * ANSYS Fluent fluid analysis
+ * ANSYS Fluent Fluid Analysis
  * C++ Programming
  * Project Management
  * Industrial Production
