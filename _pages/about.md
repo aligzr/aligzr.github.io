@@ -18,7 +18,7 @@ My name is Ali. I am studying Mechanical Engineering at Eskisehir Osmangazi Univ
 
 In project scope I designed the vehicle's outer body, analyzed it and optimized the design according to the drag coefficient (Cd). In addition, I made researches on composite production in the production process of the exterior body and took action in composite production. Our team participates in the contest for the second time.
 
-I have also worked some production companies, You can find more information about me in the CV tab.
+I have also worked at various production companies, You can find more information about me in the CV tab.
 
 Getting started
 ======
