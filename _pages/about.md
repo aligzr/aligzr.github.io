@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "From dream to model"
+title: "From Dream to Model"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,4 +21,5 @@ You have find more information about me in the CV tab.
 Getting started
 ======
 You can find some design renders and CAD models in this site.
-contact: aligezer157@gmail.com
+
+Contact: aligezer157@gmail.com
