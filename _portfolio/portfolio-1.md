@@ -1,6 +1,6 @@
 ---
 title: "Concept 1"
-excerpt: "You can find step file at my grabcad account. 1<br/><img src='/images/500x300.png'>"
+excerpt: "You can find step file at my grabcad account. 1<br/><img src='/images/concept 1.png'>"
 collection: portfolio
 ---
 
