@@ -38,7 +38,7 @@ Work experience
 
   
   * Starplast Plast Co. Ltd.
-     InjectionMachine Operator
+     Injection Machine Operator
      July 2016 – September 2016
 
 Skills
