@@ -11,49 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+*  Eskisehir Osmangazi University
+   Undergraduate StudenT Mechanical Engineering
+   2016 – 2021 GNA: 3.78 Rank: 1/90
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+ TEI - TUSAŞ Engine Industries, Inc.
+  * Intern
+    TEI - TUSAŞ Engine Industries, Inc.
+    June 2019 – July 2019
+    
+  * Machine Operator
+    Tanatar Molding & Stamping Co. Ltd.
+    June 2018 – September 2018
+
+  * Machine Operator
+    Tanatar Molding & Stamping Co. Ltd.
+    June 2017 – September 2017
+
   
+  * Machine Operator
+   Starplast Plast Co. Ltd.
+   July 2016 – September 2016
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* CAD Design
+  * Fusion 360
+  * Siemens NX
+  * Solidworks
+  * Catia v5
+  * Autocad
+ * ANSYS Fluent fluid analysis
+ * C++ Programming
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
