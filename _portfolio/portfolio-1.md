@@ -1,6 +1,6 @@
 ---
 title: "Concept 1"
-excerpt: "You can find step file at my grabcad account.
+excerpt: "You can find step file at my grabcad account. It will be available soon.
 
 The design is still in progress.
 
