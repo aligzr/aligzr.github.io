@@ -1,8 +1,10 @@
 ---
 title: "Concept 1"
-excerpt: "You can find step file at my grabcad account. The works are in progress.
+excerpt: "You can find step file at my grabcad account.
 
-1<br/><img src='/images/Concept 1.png'>"
+The design is still in progress.
+
+<br/><img src='/images/Concept 1.png'>"
 collection: portfolio
 ---
 
