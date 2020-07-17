@@ -21,33 +21,25 @@ Work experience
 ======
 
  
-  * Intern
-  
-    TEI - TUSAŞ Engine Industries, Inc.
-    
-    June 2019 – July 2019
+  * TEI - TUSAŞ Engine Industries, Inc.
+   * Intern
+   * June 2019 – July 2019
     
     
-  * Machine Operator
-  
-    Tanatar Molding & Stamping Co. Ltd.
-    
-    June 2018 – September 2018
+  * Tanatar Molding & Stamping Co. Ltd.
+   * Stamping Machine Operator
+   * June 2018 – September 2018
     
 
-  * Machine Operator
-  
-    Tanatar Molding & Stamping Co. Ltd.
-    
-    June 2017 – September 2017
+  * Tanatar Molding & Stamping Co. Ltd.
+   * Stamping Machine Operator
+   * June 2017 – September 2017
     
 
   
-  * Machine Operator
-  
-   Starplast Plast Co. Ltd.
-   
-   July 2016 – September 2016
+  * Starplast Plast Co. Ltd.
+   * InjectionMachine Operator
+   * July 2016 – September 2016
 
 Skills
 ======
