@@ -16,7 +16,7 @@ My name is Ali. I am studying Mechanical Engineering at Eskisehir Osmangazi Univ
 
 
 
-In project scope I designed the vehicle's outer body, analyzed it and optimized the design according to the drag coefficient (Cd). In addition, I made researches on composite production in the production process of the exterior body and took action in composite production. Our team participates in the contest for the second time.
+In project scope I designed the vehicle's exterior body, analyzed it and optimized the design according to the drag coefficient (Cd). In addition, I made researches on composite production in the production process of the exterior body and took action in composite production. Our team participates in the contest for the second time.
 
 I have also worked at various production companies, You can find more information about me in the CV tab.
 
@@ -27,4 +27,4 @@ You can find some design renders, CAD models and blog posts in this website.
 Contact me aligezer157@gmail.com
 
 
-Copying images and files on the site without permission is prohibited and subject to copyright.
+Copying files in the website subject to copyright.
