@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Concept 1"
+excerpt: "You can find step file at my grabcad account. 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
