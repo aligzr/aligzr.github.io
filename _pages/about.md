@@ -25,3 +25,6 @@ Getting started
 You can find some design renders, CAD models and blog posts in this website.
 
 Contact me aligezer157@gmail.com
+
+
+Copying images and files on the site without permission is prohibited and subject to copyright.
