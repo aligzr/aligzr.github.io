@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 *  Eskisehir Osmangazi University
-   Undergraduate StudenT Mechanical Engineering
+
+   Undergraduate Student Mechanical Engineering
+   
    2016 – 2021 GNA: 3.78 Rank: 1/90
 
 Work experience
