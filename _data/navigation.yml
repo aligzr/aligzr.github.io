@@ -7,10 +7,10 @@ main:
    # url: /designs/    
 
   - title: "Projects"
-   url: /Publications/    
+   url: /projects/    
     
  - title: "Designs"
-  url: /portfolio/
+  url: /designs/
         
   - title: "Blog Posts"
     url: /year-archive/
