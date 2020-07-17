@@ -59,4 +59,6 @@ Skills
   * Autocad
  * ANSYS Fluent fluid analysis
  * C++ Programming
-
+ * Project Management
+ * Industrial Production
+ * Production Planning
