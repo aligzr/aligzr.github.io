@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this my personal website. I am working for inventive, unique, and inspiring designs and recording it here.
+Hi, this my personal website. I am working for inventive, unique, and inspiring designs and recording them here.
 
 About me
 ======
