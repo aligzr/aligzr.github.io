@@ -6,7 +6,7 @@ excerpt: "You can click Concept 1 to access more render. It will be available so
 collection: portfolio
 ---
 
-You can share for support.
+
 For CAD model: https://grabcad.com/ali.gezer-3/models
 <br/><img src='/images/c1v1.png'>
 *
