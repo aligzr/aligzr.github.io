@@ -1,6 +1,6 @@
 ---
 title: "Concept 1"
-excerpt: "You can click "Concept 1" to access more renders iamges about Concept 1. It will be available at grabcad soon.
+excerpt: "You can click "Concept 1" to access more renders of Concept 1. It will be available soon at grabcad.
 
 
 
