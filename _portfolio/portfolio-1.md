@@ -9,8 +9,8 @@ collection: portfolio
 ---
 
 
-<br/><img src='/images/C1v1.png'>"
-<br/><img src='/images/C1v2.png'>"
-<br/><img src='/images/C1v3.png'>"
-<br/><img src='/images/C1v4.png'>"
-<br/><img src='/images/C1v5.png'>"
+<br/><img src='/images/c1v1.png'>"
+<br/><img src='/images/c1v2.png'>"
+<br/><img src='/images/c1v3.png'>"
+<br/><img src='/images/c1v4.png'>"
+<br/><img src='/images/c1v5.png'>"
