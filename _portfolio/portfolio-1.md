@@ -1,6 +1,6 @@
 ---
 title: "Concept 1"
-excerpt: "You can click Concept 1 to access more render. It will be available soon at grabcad.
+excerpt: "You can click Concept 1 to access more render image. It will be downloadable soon at grabcad.
 
 <br/><img src='/images/Concept 1.png'>"
 collection: portfolio
