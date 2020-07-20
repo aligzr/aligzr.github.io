@@ -8,12 +8,12 @@ collection: portfolio
 
 
 For CAD model: https://grabcad.com/ali.gezer-3/models
-<br/><img src='/images/c3v1.png'>
+<br/><img src='/images/c3v1.PNG'>
 *
 <br/><img src='/images/c3v2.PNG'>
 *
-<br/><img src='/images/c3v3.png'>
+<br/><img src='/images/c3v3.PNG'>
 *
-<br/><img src='/images/c3v4.png'>
+<br/><img src='/images/c3v4.PNG'>
 *
-<br/><img src='/images/c3v5.png'>
+<br/><img src='/images/c3v5.PNG'>
