@@ -5,9 +5,10 @@ excerpt: "You can click Concept 5 to access more render images. It will be downl
 <br/><img src='/images/Concept 5.PNG'>"
 collection: portfolio
 ---
-
+You can use the next or previous button at the bottom of the page to view other works.
 
 For CAD model: https://grabcad.com/ali.gezer-3/models
+
 <br/><img src='/images/c5v1.png'>
 *
 <br/><img src='/images/c5v2.png'>
