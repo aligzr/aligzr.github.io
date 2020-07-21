@@ -2,7 +2,6 @@
 title: "Concept 1"
 excerpt: "You can click Concept 1 to access more render images. It will be downloadable soon at grabcad.
 
-
 <br/><img src='/images/Concept 1.png'>"
 collection: portfolio
 ---
