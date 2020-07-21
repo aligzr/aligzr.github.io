@@ -10,6 +10,8 @@ collection: portfolio
 You can use the next or previous button at the bottom of the page to view other works.
 
 For CAD model: https://grabcad.com/ali.gezer-3/models
+
+
 <br/><img src='/images/c1v1.png'>
 *
 <br/><img src='/images/c1v2.png'>
