@@ -10,7 +10,7 @@ collection: portfolio
 For CAD model: https://grabcad.com/ali.gezer-3/models
 <br/><img src='/images/c5v1.png'>
 *
-<br/><img src='/images/c5v2.PNG'>
+<br/><img src='/images/c5v2.png'>
 *
 <br/><img src='/images/c5v3.PNG'>
 *
