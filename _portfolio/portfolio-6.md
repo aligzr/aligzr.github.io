@@ -21,5 +21,7 @@ For CAD model: https://grabcad.com/ali.gezer-3/models
 *
 <br/><img src='/images/Concept 6.png'>
 *
-<br/><video src='/images/Concept6/concept6.mp4.png'>
-
+        <video controls width="1000" heigh"600"t>
+  <source src='/images/Concept6/concept6.mp4.png' type"video/mp4>
+      acilmio
+         </video  
