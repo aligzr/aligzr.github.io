@@ -21,4 +21,4 @@ For CAD model: https://grabcad.com/ali.gezer-3/models
 *
 <br/><img src='/images/Concept 6.png'>
 *
-<br/><img src='/images/concept6/concept6.html'>
+<br/><vid src='/images/concept6/concept6.html'>
