@@ -21,4 +21,25 @@ For CAD model: https://grabcad.com/ali.gezer-3/models
 *
 <br/><img src='/images/Concept 6.png'>
 *
-<br/><vid src='/images/concept6/concept6.mp4'>
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="DC.title" content="Untitled Project" />
+        <meta name="DC.date" content="2020-08-02 12:44:53 ÖÖ" />
+        <meta name="DC.language" content="ENU" />
+
+<meta name="google" value="notranslate" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>concept6</title>
+
+<link href="concept6_embed.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="smart-player-embed-container">
+<iframe class="smart-player-embed-iframe" id="embeddedSmartPlayerInstance" src="concept6_player.html?embedIFrameId=embeddedSmartPlayerInstance" scrolling="no" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
+</body>
+</html>
+
