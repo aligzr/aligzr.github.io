@@ -15,7 +15,7 @@ Education
 
    Undergraduate Student Mechanical Engineering
    
-   2016 – 2021 GNA: 3.78 Rank: 1/90
+   2016 – 2021 GNA: 3.82 Rank: 1/90
 
 Work experience
 ======
@@ -58,7 +58,9 @@ Skills
   * Catia v5
   * Autocad
  * ANSYS Fluent Fluid Analysis
+ * ANSYS Worbench Static, Modal, Transient, Explicit Analysis
  * C++ Programming
  * Project Management
  * Industrial Production
  * Production Planning
+ * Project Management
